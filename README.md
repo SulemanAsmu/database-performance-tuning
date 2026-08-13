@@ -58,7 +58,7 @@ across multiple database platforms.
 - ✅ Improved overall database throughput by 40%
 
 ## 🏆 Author
-- **Name:**       [Your Name]
+- **Name:**       Suleman Misganu
 - **Role:**       Database Administrator
-- **Experience:** [X] Years
-- **LinkedIn:**   [Your LinkedIn URL]
+- **Experience:** +2 Years
+- **LinkedIn:**   
